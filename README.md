@@ -1,6 +1,6 @@
 # ProgettoEsame
 <<<<<<< HEAD
-Mattia Segoloni
+Mattia Segoloni sta qui e comanda
 Il progetto avrà sia i diagrammi UML che il codice. Seguirà documento SRS.
 =======
 Il progetto avrà sia i diagrammi UML che il codice. Seguirà documento SRS.
