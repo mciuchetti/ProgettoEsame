@@ -1,3 +1,3 @@
 # ProgettoEsame
 Il progetto avr√† sia i diagrammi UML che il codice. Seguir√† documento SRS.
-Francesco Alunni Ë stato qui.
+Francesco Alunni Ë stato qui, ma Francesco Sebastiani lo ha spodestato.
