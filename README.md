@@ -1,2 +1,50 @@
 # ProgettoEsame
 Il progetto avrà sia i diagrammi UML che il codice. Seguirà documento SRS.
+Francesco Alunni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complimenti per essere arrivato qui in fondo.
